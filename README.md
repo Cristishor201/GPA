@@ -14,7 +14,7 @@ Your GPA is calculated in two steps:
  
  
  The formula used to calculate your GPA is as follows:
- ![Formula](Formula.jpg)
+ ![Formula](Formula.JPG)
  
  This introduction was taken from:
  [here](https://studenthelp.secure.griffith.edu.au/app/answers/detail/a_id/1829/~/what-does-gpa-%28grade-point-average%29-mean-and-how-is-it-calculated%3F).
